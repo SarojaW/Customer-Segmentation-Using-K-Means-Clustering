@@ -69,8 +69,8 @@ Elbow Method
 Customer Clusters
 
 Future Improvements :
-Apply DBSCAN and Hierarchical Clustering
-Deploy as a Streamlit Web App
-Add customer recommendation system
-Perform real-time segmentation
+Apply DBSCAN and Hierarchical Clustering, 
+Deploy as a Streamlit Web App, 
+Add customer recommendation system,
+Perform real-time segmentation.
 
